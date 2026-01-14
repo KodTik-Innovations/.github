@@ -1,56 +1,33 @@
-# 🚀 Compose UI Lab
+# Hi there, I'm Deenu488 👋
+### Android Developer & UI Enthusiast 📱
 
-**Developed by KodTik-Innovations**
-
-Compose UI Lab is a powerful, lightweight IDE environment designed specifically for Android developers to experiment, prototype, and build **Jetpack Compose** interfaces on the go. Stop waiting for heavy builds and start visualizing your UI instantly.
-
----
-
-## ✨ Features
-
-* **Instant Preview:** Write Compose code and see the UI render in real-time.
-* **Material 3 Integration:** Built-in support for the latest Material Design components.
-* **Dynamic Theme Support:** Easily switch between Dark and Light modes to test contrast.
-* **Mobile-First IDE:** Optimized for coding and testing directly on Android devices.
-* **Code Playground:** A dedicated space to test complex animations and layouts.
+Welcome to my GitHub! I focus on building robust Android applications, exploring modern UI patterns with Jetpack Compose, and deep-diving into the internals of the Android/Java ecosystem.
 
 ---
 
-## 📺 Demos & Screenshots
+## 🚀 Featured Projects
 
-### 🎬 App Walkthrough
-Check out the Compose UI Lab in action:
+### 🛠️ KodTik-IDE & Tooling
+A collection of projects focused on development environments and automation.
+* **KodTik-IDE-Official** – My primary IDE project aimed at providing a streamlined development experience.
 
-### 🖼️ Design Showcase
-| Dashboard UI | Code Editor |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/300x600?text=UI+Preview" width="250"> | <img src="https://via.placeholder.com/300x600?text=Editor+Preview" width="250"> |
+### 🎨 Compose UI Lab
+A dedicated space for experimenting with **Jetpack Compose**, Google's modern toolkit for building native UI.
+* **ComposeUILab-Official** – The main hub for my custom UI components, animations, and layout experiments.
+  
+---
+
+## 🛠️ Tech Stack & Tools
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ---
 
-## 🛠️ Built With
+## 📫 How to reach me:
+* **Email:** deenbandhunetam488@gmail.com
 
-* **Kotlin** - The language of modern Android.
-* **Jetpack Compose** - For declarative UI development.
-* **Material 3** - The next generation of Material Design.
----
-
-## 🚀 How to Use
-
-1.  **Open the Lab:** Launch the Compose UI Lab app.
-2.  **Write Code:** Use the integrated editor to write your `@Composable` functions.
-3.  **Preview:** Tap the split or design icon to initialize the UI and see your changes instantly.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you have ideas for new features or improvements:
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-**KodTik-Innovations** *Building the future of mobile development.*
+*"Building the future of mobile, one composable at a time."*
