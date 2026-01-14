@@ -21,10 +21,6 @@ Compose UI Lab is a powerful, lightweight IDE environment designed specifically 
 ### 🎬 App Walkthrough
 Check out the Compose UI Lab in action:
 
-![Compose UI Lab Demo](1000063035.mp4)
-
-> **Note:** If you are viewing this on GitHub, you can drag and drop your video file into the editor to ensure the link plays correctly.
-
 ### 🖼️ Design Showcase
 | Dashboard UI | Code Editor |
 | :---: | :---: |
@@ -37,27 +33,19 @@ Check out the Compose UI Lab in action:
 * **Kotlin** - The language of modern Android.
 * **Jetpack Compose** - For declarative UI development.
 * **Material 3** - The next generation of Material Design.
-* **Shizuku/Termux** - For advanced system-level integrations.
-
 ---
 
 ## 🚀 How to Use
 
 1.  **Open the Lab:** Launch the Compose UI Lab app.
 2.  **Write Code:** Use the integrated editor to write your `@Composable` functions.
-3.  **Run & Iterate:** Tap the play icon to initialize the UI and see your changes instantly.
+3.  **Preview:** Tap the split or design icon to initialize the UI and see your changes instantly.
 
 ---
 
 ## 🤝 Contributing
 
 We welcome contributions! If you have ideas for new features or improvements:
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
 ---
 
